@@ -3,9 +3,9 @@ Simple Python Web Server
 
 Running the server from a terminal:
 
-"""
+```
 python serv.py
-"""
+```
 
 Or, run it from your IDE (I prefer Pycharm community edition)
 
