@@ -1,6 +1,14 @@
 Simple Python Web Server
 ========================
 
-This is the source code for howCode's simple Python Web Server.
+Running the server from a terminal:
 
-You can watch the video that accompanies this source code here: https://youtu.be/hFNZ6kdBgO0
+"""
+python serv.py
+"""
+
+Or, run it from your IDE (I prefer Pycharm community edition)
+
+Open a browser on localhost:8080 to view the index.html/landing page.
+
+With the http server running, we can update the html live and refresh the browser to see the changes.
